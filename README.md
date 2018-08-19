@@ -70,6 +70,6 @@ The data here is protected under the Creative Commons Attibution 4.0 Internation
 
 | Name | Institution where data was collected | Year of collection | File name | Other |
 | ---- | ------------------------------------ | ------------------ | --------- | ----- |
-| Raffica La Rosa | Michigan State University | 2012 | MSU_ZOL355L_FS12.csv | --- |
-| Raffica La Rosa | Michigan State University | 2013 | MSU_ZOL355L_SS13.csv | --- |
-| Nancy Emery and Raffica La Rosa | University of Colorado Boulder | 2017 | CU_EBIO4600_FS17.csv | --- |
+| [Raffica La Rosa](https://github.com/rjlarosa) | Michigan State University | 2012 | MSU_ZOL355L_FS12.csv | --- |
+| [Raffica La Rosa](https://github.com/rjlarosa) | Michigan State University | 2013 | MSU_ZOL355L_SS13.csv | --- |
+| [Nancy Emery](https://www.colorado.edu/ebio/nancy-emery) and Raffica La Rosa | University of Colorado Boulder | 2017 | CU_EBIO4600_FS17.csv | --- |
