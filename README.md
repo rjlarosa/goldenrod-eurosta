@@ -29,8 +29,8 @@ If you have taught this lab, or a variant of it, and would like to add your data
 | early_wasp? | Is there evidence of the early smaller parasitoid wasp (_Eurytoma obtusiventris_)? y=yes, n=no |
 | gall_circumference_mm | The circumference of the gall along the horizontal/transverse/axial plane. |
 | gall_contents | The contents of the gall chamber. |
-| gall_diameter_mm | The diameter (width) of the entire gall (perpendicular to the stem). ![Figure](https://github.com/rjlarosa/goldenrod-eurosta/blob/master/CU_gall_traits.jpg). |
-| gall_height_mm | The hight of the entire gall (inline with the stem). ![Figure](https://github.com/rjlarosa/goldenrod-eurosta/blob/master/CU_gall_traits.jpg). |
+| gall_diameter_mm | The diameter (width) of the entire gall (perpendicular to the stem). Trait C in Figure 1 below. |
+| gall_height_mm | The hight of the entire gall (inline with the stem). Trait D in Figure 1 below. |
 | gall_id | Each group had a collection of galls that they numbered for data collection. |
 | gall_wall_thickness_mm | The thickness of the gall wall from the chamber to the outer surface. |
 | gallfly_larva_length_mm | The length of the gallfly larva, but may actually be the length of the pupa. |
