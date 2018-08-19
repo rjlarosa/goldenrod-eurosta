@@ -35,21 +35,24 @@ If you have taught this lab, or a variant of it, and would like to add your data
 | gall_wall_thickness_mm | The thickness of the gall wall from the chamber to the outer surface. |
 | gallfly_larva_length_mm | The length of the gallfly larva, but may actually be the length of the pupa. |
 | group | The group of students that worked together to collect a subset of the data. |
-| hard_wall_thickness_mm_1 | The thickness of the hard outer layer of the gall on one side. Trait A in ![Figure](https://github.com/rjlarosa/goldenrod-eurosta/blob/master/CU_gall_traits.jpg). |
-| hard_wall_thickness_mm_2 | The thickness of the hard outer layer of the gall on the other side. Trait A in ![Figure](https://github.com/rjlarosa/goldenrod-eurosta/blob/master/CU_gall_traits.jpg). |
-| hard_wall_thickness_mm_ave | The average of the thickness of the hard outer layer of the gall. Trait A in ![Figure](https://github.com/rjlarosa/goldenrod-eurosta/blob/master/CU_gall_traits.jpg). |
+| hard_wall_thickness_mm_1 | The thickness of the hard outer layer of the gall on one side. Trait A in Figure 1 below. |
+| hard_wall_thickness_mm_2 | The thickness of the hard outer layer of the gall on the other side. Trait A in Figure 1 below. |
+| hard_wall_thickness_mm_ave | The average of the thickness of the hard outer layer of the gall. Trait A in Figure 1 below. |
 | intact_gallfly_larva? | Does the gall contain an intact gallfly larva? y=yes, n=no, 1=yes, 0=no |
 | late_wasp? | Is there evidence of the late larger parasitoid wasp (_Eurytoma gigantea_)? y=yes, n=no |
 | parasitoid-type | What consumed the gallfly larva? |
 | parasitoid? | Is there evidence of a parasitoid (or parasite)? y=yes, n=no, 1=yes, 0=no |
-| pith_wall_thickness_mm_1 | The thickness of the pithy inner layer of the gall on one side. Trait B in ![Figure](https://github.com/rjlarosa/goldenrod-eurosta/blob/master/CU_gall_traits.jpg). |
-| pith_wall_thickness_mm_2 | The thickness of the pithy inner layer of the gall on the other side. Trait B in ![Figure](https://github.com/rjlarosa/goldenrod-eurosta/blob/master/CU_gall_traits.jpg). |
-| pith_wall_thickness_mm_ave | The average thickness of the pithy inner layer of the gall. Trait B in ![Figure](https://github.com/rjlarosa/goldenrod-eurosta/blob/master/CU_gall_traits.jpg). |
+| pith_wall_thickness_mm_1 | The thickness of the pithy inner layer of the gall on one side. Trait B in Figure 1 below. |
+| pith_wall_thickness_mm_2 | The thickness of the pithy inner layer of the gall on the other side. Trait B in Figure 1 below. |
+| pith_wall_thickness_mm_ave | The average thickness of the pithy inner layer of the gall. Trait B in Figure 1 below. |
 | plant_height_to_gall_base_cm | The height of the plant from near the ground to the base of the gall. |
 | plant_height_with_gall_cm | The height of the entire plant, that contains a gall, from the ground to the top |
 | plant_height_without_gall_cm | The height of the entire plant, that does not contain a gall, from the ground to the top |
 | section | The lab section for the course. |
 | stem_width_2cm_below_gall | The width of the goldenrod stem 2cm below the gall. |
+
+![Figure](https://github.com/rjlarosa/goldenrod-eurosta/blob/master/CU_gall_traits.jpg)
+Figure 1. Drawings of a few gall traits.
 
 ## Description of collection sites:
 
